@@ -1,0 +1,8 @@
+br/pucrs/engswii/controllers/StudentDeleteController.class
+br/pucrs/engswii/beans/StudentRegistrationReply.class
+br/pucrs/engswii/controllers/StudentUpdateController.class
+br/pucrs/engswii/beans/Student.class
+br/pucrs/engswii/server/main/SpringRestControllerFullAppApplication.class
+br/pucrs/engswii/beans/StudentRegistration.class
+br/pucrs/engswii/controllers/StudentRetrieveController.class
+br/pucrs/engswii/controllers/StudentRegistrationController.class
